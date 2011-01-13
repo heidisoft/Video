@@ -1,0 +1,8 @@
+;$Id: video_zencoder.info,v 1.1.4.6 2010/12/05 15:48:43 heshanmw Exp $
+
+name = Zencoder API on Video
+description = Zencoder is a webservice to transcode videos.
+package = Video
+core = 7.x
+dependencies[] = video
+dependencies[] = video_s3

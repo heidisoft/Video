@@ -1,0 +1,15 @@
+/* $Id: video.css,v 1.2.4.2.2.3 2011/01/09 14:21:01 heshanmw Exp $ */
+
+/**
+ * Image upload widget.
+ */
+div.video-preview {
+  float: left; /* LTR */
+  padding: 0 10px 10px 0; /* LTR */
+}
+div.video-widget-data {
+  float: left; /* LTR */
+}
+div.video-widget-data input.text-field {
+  width: auto;
+}
